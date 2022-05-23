@@ -75,7 +75,7 @@ $data = [
         </div>
 
         <nav>
-            <ul class="d-flex ">
+            <ul class="d-flex mb-0">
                 <li class="mx-4">Introduzione</li>
                 <li class="mx-4">Norme sulla Privacy</li>
                 <li class="mx-4">Termini di servizio</li>
